@@ -1,0 +1,4 @@
+- 打印 npm install 过程
+- node_modules存储
+- 增加修改 也移动node_modules 
+- 确认一下 包 版本问题
